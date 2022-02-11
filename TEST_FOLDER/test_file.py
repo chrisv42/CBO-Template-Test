@@ -5,7 +5,7 @@ NAME = ""
 
 
 def say_hello(name):
-    print("Hello " + NAME + "!")
+    print("Hello " + name + "!")
 
 
 say_hello(NAME)
